@@ -80,10 +80,10 @@ pip install pandas numpy matplotlib seaborn
 
 ---
 
-## Run the Notebook
+## Run the Notebook on google colab
 
 ```bash
-jupyter notebook "Analysis NovaRetail.ipynb"
+https://colab.research.google.com/drive/1OzsW0n0H85dAeFIVrG3-s7Rarps9ubwh?usp=sharing
 ```
 
 ---
