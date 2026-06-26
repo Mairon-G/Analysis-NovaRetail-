@@ -82,9 +82,9 @@ pip install pandas numpy matplotlib seaborn
 
 ## Run the Notebook on google colab
 
-```bash
+
 https://colab.research.google.com/drive/1OzsW0n0H85dAeFIVrG3-s7Rarps9ubwh?usp=sharing
-```
+
 
 ---
 
